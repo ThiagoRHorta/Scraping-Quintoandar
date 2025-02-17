@@ -59,6 +59,8 @@ python scraping_quintoandar_alugueis.py
 
 ## **📊 Estrutura dos Arquivos CSV**
 
+Parte dos arquivos CSV gerados (truncados) estão disponíveis em /Exemplos_csv/
+
 ```
 quintoandar_uf_cidade.csv
 ```
